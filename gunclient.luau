@@ -1,4 +1,5 @@
 --!nonstrict
+-- super sorry to the hd team, its my first time doing this and using github like this, super sorry if i did something dumb.
 -- made by @extendedrealm on discord
 -- client side of my gun framework, one copy runs inside each gun tool, works for players and npcs (AI is the npc character)
 -- network is EasyNetwork from the devforum, not mine, credit to its author
